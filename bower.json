@@ -1,0 +1,23 @@
+{
+  "name": "yena_test_task",
+  "description": "",
+  "main": "gulpfile.js",
+  "authors": [
+    "<uadiesel.ias@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "select2": "^4.0.3",
+    "bootstrap-datepicker": "^1.7.0",
+    "jquery-mask-plugin": "^1.14.11"
+  }
+}
